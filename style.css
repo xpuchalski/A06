@@ -1,0 +1,22 @@
+*{
+    font-family: Georgia;
+}
+.logo {
+    position: absolute;
+}
+
+h2 {
+    color: #800000;
+}
+
+.shadow {
+    text-shadow: #800000 2px 2px;
+}
+
+footer {
+    text-align: center;
+}
+
+a:hover{
+    font-style: italic;
+}
